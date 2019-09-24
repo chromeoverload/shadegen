@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "My Chrome App.",
+  "name": "ShadeGen",
+  "description": "A simple tool for generating shades of colors relative to a given base color.",
   "version": "1.0.0",
   "app": {
     "background": {
